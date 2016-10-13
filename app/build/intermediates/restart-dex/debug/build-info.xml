@@ -5,26 +5,26 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="7075875773211"
+    timestamp="8027325588544"
     token="-5957648985794715165"
-    verifier="COMPATIBLE" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="310" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="107" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="93" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3" />
+        duration="0" />
 
     <artifact
-        location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
 
     <build
         timestamp="4955598369441"
@@ -45,16 +45,27 @@
         <artifact
             location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
             type="DEX" />
-        <artifact
-            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
     </build>
     <build
         timestamp="7075875773211"
         verifier="COMPATIBLE" >
         <artifact
-            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/reload-dex/debug/classes.dex"
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/builds/debug/7075875773211/classes.dex"
             type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="7727246842004"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/builds/debug/7727246842004/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8027325588544"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

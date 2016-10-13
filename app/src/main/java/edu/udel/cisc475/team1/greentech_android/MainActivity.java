@@ -96,67 +96,29 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        Fragment newFragment;
-
+        Fragment newFragment = new MapsFragment();
         if (id == R.id.nav_maps) {
-            // Create new fragment and transaction
             newFragment = new MapsFragment();
-            FragmentTransaction transaction = getFragmentManager().beginTransaction();
-
-            // Replace whatever is in the fragment_container view with this fragment,
-            // and add the transaction to the back stack if needed
-            transaction.replace(R.id.activity_main, newFragment);
-            transaction.addToBackStack(null);
-
-            // Commit the transaction
-            transaction.commit();
 
         } else if (id == R.id.nav_educational) {
-            // Create new fragment and transaction
             newFragment = new EducationalFragment();
-            FragmentTransaction transaction = getFragmentManager().beginTransaction();
-
-            // Replace whatever is in the fragment_container view with this fragment,
-            // and add the transaction to the back stack if needed
-            transaction.replace(R.id.activity_main, newFragment);
-            transaction.addToBackStack(null);
-
-            // Commit the transaction
-            transaction.commit();
 
         } else if (id == R.id.nav_search) {
-            // Create new fragment and transaction
             newFragment = new SearchFragment();
-            FragmentTransaction transaction = getFragmentManager().beginTransaction();
-
-            // Replace whatever is in the fragment_container view with this fragment,
-            // and add the transaction to the back stack if needed
-            transaction.replace(R.id.activity_main, newFragment);
-            transaction.addToBackStack(null);
-
-            // Commit the transaction
-            transaction.commit();
 
         } else if (id == R.id.nav_upload) {
-            // Create new fragment and transaction
             newFragment = new UploadFragment();
-            FragmentTransaction transaction = getFragmentManager().beginTransaction();
-
-            // Replace whatever is in the fragment_container view with this fragment,
-            // and add the transaction to the back stack if needed
-            transaction.replace(R.id.activity_main, newFragment);
-            transaction.addToBackStack(null);
-
-            // Commit the transaction
-            transaction.commit();
 
         }
+        FragmentTransaction transaction = getFragmentManager().beginTransaction();
 
-        /*else if (id == R.id.nav_share) {
+        // Replace whatever is in the fragment_container view with this fragment,
+        // and add the transaction to the back stack if needed
+        transaction.replace(R.id.activity_main, newFragment);
+        transaction.addToBackStack(null);
 
-        } else if (id == R.id.nav_send) {
-
-        }*/
+        // Commit the transaction
+        transaction.commit();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
