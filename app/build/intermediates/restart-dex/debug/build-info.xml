@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="7075875773211"
+    token="-5957648985794715165"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="310" />
+    <task
+        name="instant-run-dex"
+        duration="107" />
+    <task
+        name="instant-run-transform"
+        duration="93" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="4955598369441"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="7011167318817"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="7075875773211"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Thu Oct 13 16:36:13 EDT 2016
+base.0=/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c84437bce62b1500fdb2269bc744067935e7e6ee
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0b40b7290ee6378a98694cade58144b0d4c090c/classes.dex
+base.1=/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0b40b7290ee6378a98694cade58144b0d4c090c
+file.0=/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c84437bce62b1500fdb2269bc744067935e7e6ee/classes.dex
