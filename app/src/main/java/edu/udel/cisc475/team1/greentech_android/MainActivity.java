@@ -48,6 +48,8 @@ public class MainActivity extends AppCompatActivity
         Fragment newFragment = new MapsFragment();
         FragmentTransaction transaction = getFragmentManager().beginTransaction();
 
+        getSupportActionBar().setTitle(getResources().getString(R.string.nav_drawer_item_1));
+
         // Replace whatever is in the fragment_container view with this fragment,
         // and add the transaction to the back stack if needed
         transaction.replace(R.id.activity_main, newFragment);
@@ -99,15 +101,19 @@ public class MainActivity extends AppCompatActivity
         Fragment newFragment = new MapsFragment();
         if (id == R.id.nav_maps) {
             newFragment = new MapsFragment();
+            getSupportActionBar().setTitle(getResources().getString(R.string.nav_drawer_item_1));
 
         } else if (id == R.id.nav_educational) {
             newFragment = new EducationalFragment();
+            getSupportActionBar().setTitle(getResources().getString(R.string.nav_drawer_item_2));
 
         } else if (id == R.id.nav_search) {
             newFragment = new SearchFragment();
+            getSupportActionBar().setTitle(getResources().getString(R.string.nav_drawer_item_3));
 
         } else if (id == R.id.nav_upload) {
             newFragment = new UploadFragment();
+            getSupportActionBar().setTitle(getResources().getString(R.string.nav_drawer_item_4));
 
         }
         FragmentTransaction transaction = getFragmentManager().beginTransaction();

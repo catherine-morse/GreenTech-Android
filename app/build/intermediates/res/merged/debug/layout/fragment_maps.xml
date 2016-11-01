@@ -4,10 +4,15 @@
     android:layout_height="match_parent"
     android:id="@+id/fragment_maps">
 
-    <TextView
+    <!--<TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Maps"
-        android:gravity="center"/>
+        android:text="@string/nav_drawer_item_1"
+        android:gravity="center"/>-->
+
+    <fragment
+        class="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </LinearLayout>
