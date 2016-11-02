@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "854373317889",
+    "firebase_url": "https://greentechapp-c4a2c.firebaseio.com",
+    "project_id": "greentechapp-c4a2c",
+    "storage_bucket": "greentechapp-c4a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854373317889:android:ebb21575f64dcf9b",
+        "android_client_info": {
+          "package_name": "edu.udel.cisc475.team1.greentech_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854373317889-7jv4vh1v7q63bk9mkonlrebus1560ed6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGIBHZyVSQlVlVKEVNv_9I8qsbNNxmsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

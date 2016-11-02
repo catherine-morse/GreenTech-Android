@@ -7,53 +7,8 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="92c398102d592c26aa4129529fe094d709f6289e">
+        sha1="7be95a8522445b285817160db240ae55c22924c0">
         <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c84437bce62b1500fdb2269bc744067935e7e6ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_ce1cbd22fa0397963cd2324f689ced102745f281/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_8bfbd73a1c45882581f2799de5e20bb69c1cb194/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_b9c149cd0ae4bac252e2d64acb08492ca71554e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_90dde5427dd3d452bef9307306a806520cd1b6e0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_8e733986e9fe2d7499453a9a42977f8275cde903/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,48 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c0a646b76e7baf43fbc1e9257a8e645555c65204/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bc5dfcc8a193cb0a0bea2a3ea04b90568d3d55f0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_9643795a310d7e9ea506e1d776ae4d819501bb5f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_68ab7c46b7bf30e6a4d031664ee3b701337583ea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_bf7926ecd2b27751810ef007497cc354c59575ad/classes.dex" />
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_29f5307c3e9c82fe8b292dc8e70d8ce54ad2e8bd/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,84 +57,66 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_1129b736d3d86ddb233eb9a44658fdb3b1539f13/classes.dex" />
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_03f5534c16ba2c1ef0580166767a32806536d1c2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_014dfd1733390b25168396c84ea9cd7824a333cd/classes.dex" />
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.0_9621a78cee0130e9972858e37c754d66a9fe24bb/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_300a87d7860ca5d3258d06b29068d7be2331eec6/classes.dex" />
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_e3688e4253d2499cf40a8d6ab31869efe900477b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_3a088b7e8d85c04d0addff7812f08c21bbc6b5d4/classes.dex" />
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.0_7641a0c7f6dad3d82fd41b78e67b9a953d145b63/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_1634f1e57f4103c61af977d0486c71ea7b912117/classes.dex" />
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_243e04ca3dc146765285d14ec9e3b115e10d957c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_cbb09a022d31aff9ee1be8a53df880c434b58ecf/classes.dex" />
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.0_4a3434a5708d9960391bdedb94ff5be736fe2bd6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_949920aceeacf57839db0e3ddfa7b2a41b4f478a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_5dd1714e6c4b725449511f74c650d3a1f3af25e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_7b6109e3b6f9f4e0f3d701250892a99866ec6e5d/classes.dex" />
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_aecabfd6db61660737ff37828c88bbef8fd82f64/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -225,33 +126,6 @@
         revision="24.0.3"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
         <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1abd497e5e5208c7e592fbd1496ba65b7b389f92/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_daa4c3933bbbf4b205299c3bc3389728daab26c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8eefb349447ed26f80142cd35f710ae5f28c2d5a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_4722549d5238d7810f73f7b74d7e0291500a67d4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -273,39 +147,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b8555d25427c68a6fe233432a685a2c8286e2766/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_866707c2da94ef8c31e63c2adb49ecf25e052a25/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_758c44e710138f350096b877422bc44cf6fc5fd8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_dae1a546f36593596715f2a7e17c51c81abd89d9/classes.dex" />
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_8c14aa3049ab4437838e49f862c96e7f6b982e45/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -318,12 +165,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_da27dd8fc14111420e6bb58be737e7b7ff4cea19/classes.dex" />
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.0_9f849224a2bc5acf4af70930137575831e798faa/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -336,39 +183,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_6957ccc69334bb8c4f406610f052d02b7a7227c3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="47d69f087293e5fc95b55193b1f3e787c6cc4146">
+        sha1="28296aac1e98412737348aa985de3b5fdf921366">
         <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0b40b7290ee6378a98694cade58144b0d4c090c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_9d647005a208c2ed35e794075efd591a8a0f9eef/classes.dex" />
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_59de7a816c51644adc6d794a1ffabf5b23f0352a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_31a6a34f0022b1755fb13666c7de699400590cb7/classes.dex" />
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_2ecb5fb5d00b5f97a9b2ce9f7321978729f8185f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_cd44af19a98318df3b07c7b472639211347a6cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_afb23cd06d4e1c0b8919e2b5c1f02cc68249e03d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -390,12 +246,336 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_01a6dde82dc12731bf5d4a4cf563d8841562101e/classes.dex" />
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_83d93cd9ae6c64950f6c28fc0053b499fbefaecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_9e9dcfe24dc242513236f6578518eafb56aa00c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_ce1cbd22fa0397963cd2324f689ced102745f281/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.0_1b48cfd6df40a9482de108d6449832613491362a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.0_94eefb01fd19bcadba4df033386169a8a9fdb86e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_9e055a6b45ef31f4763f4df46164c2496ecaadaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c0a646b76e7baf43fbc1e9257a8e645555c65204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bc5dfcc8a193cb0a0bea2a3ea04b90568d3d55f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_c5f4a0325b021363122b12dd0942a60e56fbe2de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_58707b1201375f890a0ce70e226a0582f572375f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_d90a91daf84005f8c38e26897fa36c8a0a7fe270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_8b7f353e256e5364e97f5cfebc38c6b26394440a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_8d76431da5741144b05a67cb5fc4c62debd6839e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_515ff18ed0b75294edc4871a6d0aa9bf8908346f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_0fe7f4da18812a5f43bcd42af73e6a6122d63901/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_9f17754243ea82096cf76f79004599efed05f09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.0_8f86846d091f7feadd56839eef64e3f2155a8884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_cbb09a022d31aff9ee1be8a53df880c434b58ecf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.0_13e702ebd084566fa6be1923317cd1ae3ecd06f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_7b6109e3b6f9f4e0f3d701250892a99866ec6e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_c8ce1e77e8ee35bdb717b841ca15a91dfdcfe9cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_8eefb349447ed26f80142cd35f710ae5f28c2d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_478957c2487e6007f527699a0272b35829def41c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.0_2039e4d2c67f01fe3afe44561f3a8f2c35ca23b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_637a99e0e1b254f4f55c4fa2ea57231d50d7cb2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b8555d25427c68a6fe233432a685a2c8286e2766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_ae5f472ffad0118f9072c1897fe8a110dceb3bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_81d54e701b9ba94ebd1fb99f2baea9591bb1164f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.0_6b3a7997d7172fda8138657d8504989dd7df4c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.0_a51e51c675ebc2d4d0885793b46b06d856523af8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_6176056915c5170014a0ab2b37be608ac7d13259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_41b28543258e93059921ea7c2e3583a340cb7c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_6e58cda0c552a6229e72f0ec151b7eb303ac4974/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.0_1f032577769a75f315da7f364c23051c85df7ef7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_c94eac3628d9c468c28cd73a9d40b56f1fc03667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_31a6a34f0022b1755fb13666c7de699400590cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.0_bc145544d409899645782f37214cf8f23c19092e/classes.dex" />
     </item>
 
 </items>

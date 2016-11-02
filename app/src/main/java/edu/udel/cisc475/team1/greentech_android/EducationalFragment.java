@@ -19,6 +19,11 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.AdapterView;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 
 public class EducationalFragment extends Fragment{
 
@@ -61,12 +66,48 @@ public class EducationalFragment extends Fragment{
         populateListView();
     }
 
+    /*public static class Post {
+
+        public String site;
+
+        public Post(String site) {
+        }
+
+        public String getSite() {
+            return site;
+        }
+
+    }*/
+
     private void populateListView() {
         final ListView list = (ListView) mActivity.findViewById(R.id.educational_listview);
-        ArrayList<String> arrayList = new ArrayList<String>();
+        final ArrayList<String> arrayList = new ArrayList<String>();
         arrayList.add(0, "Website 1");
         arrayList.add(1, "Website 2");
         arrayList.add(2, "Website 3");
+
+        /*// Get a reference to our posts
+        final FirebaseDatabase database = FirebaseDatabase.getInstance();
+        //DatabaseReference ref = database.getReference("server/saving-data/fireblog/posts");
+
+        DatabaseReference ref = database.getReference("https://greentechapp-c4a2c.firebaseio.com/sites");
+
+// Attach a listener to read the data at our posts reference
+        ref.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                Post post = dataSnapshot.getValue(Post.class);
+                //System.out.println(post);
+
+                arrayList.add(3, post.getSite());
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+                System.out.println("The read failed: " + databaseError.getCode());
+            }
+        });
+*/
 
         // Adapter: You need three parameters 'the context, id of the layout (it will be where the data is shown),
         // and the array that contains the data
