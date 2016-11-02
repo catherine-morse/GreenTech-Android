@@ -4,10 +4,10 @@
     android:layout_height="match_parent"
     android:id="@+id/fragment_educational">
 
-    <TextView
+    <ListView
+        android:id="@+id/educational_listview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/nav_drawer_item_2"
-        android:gravity="center"/>
+        android:layout_marginTop="@dimen/action_bar_margin_top"/>
 
 </LinearLayout>

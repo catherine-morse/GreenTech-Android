@@ -5,33 +5,66 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="3825178306737"
-    token="7980250506809799371"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="8323313007568"
+    token="5539993879065643398"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="8306" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1021" />
+        duration="0" />
     <task
         name="verifier"
-        duration="159" />
-
-    <artifact
-        location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        duration="0" />
 
     <build
-        timestamp="3825178306737"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="5083332402853"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
-            location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/outputs/apk/app-debug.apk"
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="8180962022545"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="8323313007568"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -11,4 +11,14 @@
     <string name="nav_drawer_item_2">Educational</string>
     <string name="nav_drawer_item_3">Search</string>
     <string name="nav_drawer_item_4">Upload</string>
+
+    <string name="add_entry_educational_title">Add New Resource</string>
+    <string name="add_entry_educational_value_1">Resource Name</string>
+    <string name="add_entry_educational_value_2">Resource Link</string>
+    <string name="add_entry_educational_value_3">Description</string>
+    <string name="add_entry_educational_textbox_1">Enter Name</string>
+    <string name="add_entry_educational_textbox_2">www.example.com</string>
+    <string name="add_entry_educational_textbox_3">Enter Resource Description</string>
+
+    <string name="entry_dialog_positive_button">SAVE</string>
 </resources>

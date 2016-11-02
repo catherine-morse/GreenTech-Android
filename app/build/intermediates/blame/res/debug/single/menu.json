@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/src/main/res/menu/activity_main_drawer.xml"
+        "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/src/main/res/menu/main.xml"
+        "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/src/main/res/menu/activity_main_drawer.xml"
     }
 ]

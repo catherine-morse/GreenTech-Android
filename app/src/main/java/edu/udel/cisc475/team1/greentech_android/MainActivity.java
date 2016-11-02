@@ -25,14 +25,24 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Add button pressed", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                Fragment f = getFragmentManager().findFragmentById(R.id.activity_main);
+                if (f instanceof EducationalFragment) {
+                    // do something with f
+                    Snackbar.make(view, "Add button pressed in educational tab", Snackbar.LENGTH_LONG)
+                            .setAction("Action", null).show();
+                    //inflater.inflate(R.layout.add_entry_educational, f, false);
+                } else {
+                    Snackbar.make(view, "Add button pressed", Snackbar.LENGTH_LONG)
+                            .setAction("Action", null).show();
+                }
             }
-        });
+
+        });*/
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
