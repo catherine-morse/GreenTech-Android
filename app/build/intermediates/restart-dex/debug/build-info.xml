@@ -5,19 +5,19 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="10279009933613"
+    timestamp="12096480200599"
     token="5539993879065643398"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="484" />
+        duration="412" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="48" />
+        duration="28" />
     <task
         name="verifier"
         duration="1" />
@@ -27,14 +27,14 @@
         type="DEX" />
 
     <build
-        timestamp="10158760841826"
+        timestamp="11852948187291"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="10279009933613"
+        timestamp="12096480200599"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"

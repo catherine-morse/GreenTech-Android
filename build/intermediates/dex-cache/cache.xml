@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7be95a8522445b285817160db240ae55c22924c0">
+        sha1="f0df310db16fd99e3bc97ce11d0ba59edb828d61">
         <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c84437bce62b1500fdb2269bc744067935e7e6ee/classes.dex" />
     </item>
     <item
@@ -187,7 +187,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="28296aac1e98412737348aa985de3b5fdf921366">
+        sha1="24044a97b0b382eeb0505c12491a7e416a183200">
         <dex dex="/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0b40b7290ee6378a98694cade58144b0d4c090c/classes.dex" />
     </item>
     <item

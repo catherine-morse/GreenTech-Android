@@ -66,18 +66,19 @@ public class EducationalFragment extends Fragment{
         populateListView();
     }
 
-    /*public static class Post {
+    public static class Site {
 
-        public String site;
+        public float lat;
+        public float lon;
+        public String title;
 
-        public Post(String site) {
+        public Site(float lat, float lon, String title) {
+            this.lat = lat;
+            this.lon = lon;
+            this.title = title;
         }
 
-        public String getSite() {
-            return site;
-        }
-
-    }*/
+    }
 
     private void populateListView() {
         final ListView list = (ListView) mActivity.findViewById(R.id.educational_listview);
@@ -86,20 +87,21 @@ public class EducationalFragment extends Fragment{
         arrayList.add(1, "Website 2");
         arrayList.add(2, "Website 3");
 
-        /*// Get a reference to our posts
+        // Get a reference to our posts
         final FirebaseDatabase database = FirebaseDatabase.getInstance();
         //DatabaseReference ref = database.getReference("server/saving-data/fireblog/posts");
 
-        DatabaseReference ref = database.getReference("https://greentechapp-c4a2c.firebaseio.com/sites");
+        DatabaseReference ref = database.getReference("sites");
 
 // Attach a listener to read the data at our posts reference
         ref.addValueEventListener(new ValueEventListener() {
+
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                Post post = dataSnapshot.getValue(Post.class);
-                //System.out.println(post);
+                Site post = dataSnapshot.getValue(Site.class);
+                System.out.println(post);
 
-                arrayList.add(3, post.getSite());
+                arrayList.add(3, post.title);
             }
 
             @Override
@@ -107,7 +109,7 @@ public class EducationalFragment extends Fragment{
                 System.out.println("The read failed: " + databaseError.getCode());
             }
         });
-*/
+
 
         // Adapter: You need three parameters 'the context, id of the layout (it will be where the data is shown),
         // and the array that contains the data

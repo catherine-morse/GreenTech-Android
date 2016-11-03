@@ -132,12 +132,12 @@
         "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
         "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
@@ -220,12 +220,12 @@
         "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
         "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/Users/smdc/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
