@@ -2,6 +2,7 @@ package edu.udel.cisc475.team1.greentech_android;
 
 import android.app.FragmentTransaction;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
@@ -15,8 +16,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.drive.Drive;
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    private GoogleApiClient googleApiClient;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -69,6 +76,20 @@ public class MainActivity extends AppCompatActivity
         transaction.commit();
 
     }
+
+    /*@Override
+    protected void onResume() {
+        super.onResume();
+        GoogleApiClient.OnConnectionFailedListener onfail = new GoogleApiClient.OnConnectionFailedListener() {
+            @Override
+            public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
+
+            }
+        };
+
+        googleApiClient = new GoogleApiClient.Builder(this).enableAutoManage(this /* FragmentActivity ,
+                onfail /* OnConnectionFailedListener ).addApi(Drive.API).addScope(Drive.SCOPE_FILE).build();
+    }*/
 
     @Override
     public void onBackPressed() {
@@ -139,5 +160,9 @@ public class MainActivity extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    public GoogleApiClient getGoogleApiClient() {
+        return this.googleApiClient;
     }
 }
