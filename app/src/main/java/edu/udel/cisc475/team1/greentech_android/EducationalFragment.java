@@ -200,6 +200,6 @@ public class EducationalFragment extends Fragment{
             });
             alertDialog.show();
         }
-    });
+        });
     }
 }

@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2012ae53-b67e-472d-be41-4169157476ec" name="Default" comment="" />
+    <list default="true" id="2012ae53-b67e-472d-be41-4169157476ec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/udel/cisc475/team1/greentech_android/EducationalFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/udel/cisc475/team1/greentech_android/EducationalFragment.java" />
+    </list>
     <ignored path="GreenTech-Android.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -48,9 +50,10 @@
       <file leaf-file-name="EducationalFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/udel/cisc475/team1/greentech_android/EducationalFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="379">
+              <caret line="202" column="8" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="8" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#2428#2972#0" expanded="true" />
                 <element signature="e#2971#2972#0" expanded="true" />
                 <element signature="e#3887#4827#0" expanded="true" />
@@ -58,12 +61,11 @@
                 <element signature="e#5636#6865#0" expanded="true" />
                 <element signature="e#6587#6644#0" expanded="true" />
                 <element signature="e#6864#6865#0" expanded="true" />
-                <element signature="e#6971#8375#0" expanded="true" />
+                <element signature="e#6971#8379#0" expanded="true" />
                 <element signature="e#7245#7281#0" expanded="true" />
                 <element signature="e#7457#7515#0" expanded="true" />
                 <element signature="e#7517#8325#0" expanded="true" />
                 <element signature="e#8324#8325#0" expanded="true" />
-                <element signature="e#8374#8375#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2778,6 +2780,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#2428#2972#0" expanded="true" />
             <element signature="e#2971#2972#0" expanded="true" />
             <element signature="e#3887#4827#0" expanded="true" />
@@ -2785,12 +2788,11 @@
             <element signature="e#5636#6865#0" expanded="true" />
             <element signature="e#6587#6644#0" expanded="true" />
             <element signature="e#6864#6865#0" expanded="true" />
-            <element signature="e#6971#8375#0" expanded="true" />
+            <element signature="e#6971#8379#0" expanded="true" />
             <element signature="e#7245#7281#0" expanded="true" />
             <element signature="e#7457#7515#0" expanded="true" />
             <element signature="e#7517#8325#0" expanded="true" />
             <element signature="e#8324#8325#0" expanded="true" />
-            <element signature="e#8374#8375#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2942,9 +2944,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/udel/cisc475/team1/greentech_android/EducationalFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="379">
+          <caret line="202" column="8" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="8" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#2428#2972#0" expanded="true" />
             <element signature="e#2971#2972#0" expanded="true" />
             <element signature="e#3887#4827#0" expanded="true" />
@@ -2952,12 +2955,11 @@
             <element signature="e#5636#6865#0" expanded="true" />
             <element signature="e#6587#6644#0" expanded="true" />
             <element signature="e#6864#6865#0" expanded="true" />
-            <element signature="e#6971#8375#0" expanded="true" />
+            <element signature="e#6971#8379#0" expanded="true" />
             <element signature="e#7245#7281#0" expanded="true" />
             <element signature="e#7457#7515#0" expanded="true" />
             <element signature="e#7517#8325#0" expanded="true" />
             <element signature="e#8324#8325#0" expanded="true" />
-            <element signature="e#8374#8375#0" expanded="true" />
           </folding>
         </state>
       </provider>
