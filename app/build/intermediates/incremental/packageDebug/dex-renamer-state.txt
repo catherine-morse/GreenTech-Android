@@ -1,4 +1,4 @@
-#Sun Nov 06 14:30:54 EST 2016
+#Wed Nov 09 14:54:35 EST 2016
 base.0=/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_91d58dbad53112bf6e9882b16940f07cd24420e8
 renamed.1=classes2.dex
 renamed.0=classes.dex

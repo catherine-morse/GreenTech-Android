@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "854373317889-gvqjj78num0vb19g1o5ghe7qgt18nn54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.udel.cisc475.team1.greentech_android",
+            "certificate_hash": "265F84022A1A7F4B1B627C33FC7C073B53C77CBD"
+          }
+        },
+        {
           "client_id": "854373317889-7jv4vh1v7q63bk9mkonlrebus1560ed6.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,21 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854373317889-7jv4vh1v7q63bk9mkonlrebus1560ed6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854373317889-hbai92ur2aa5siskc7a2cef3mu8nkq8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "SoftwareEngineering.GreenTech",
+                "app_store_id": "123456"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
