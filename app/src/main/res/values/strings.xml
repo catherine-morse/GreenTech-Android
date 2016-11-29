@@ -20,6 +20,11 @@
     <string name="add_entry_educational_textbox_2">www.example.com</string>
     <string name="add_entry_educational_textbox_3">Enter Resource Description</string>
 
+    <string name="add_entry_maps_title">Add New Site</string>
+    <string name="add_entry_maps_value">Site Name</string>
+    <string name="add_entry_maps_textbox">Enter Name</string>
+
     <string name="entry_dialog_positive_button">SAVE</string>
-    <string name="view_dialog_positive_button">OK</string>
+    <string name="entry_dialog_negative_button">CANCEL</string>
+    <string name="view_dialog_positive_button">CLOSE</string>
 </resources>
