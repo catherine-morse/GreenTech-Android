@@ -59,7 +59,7 @@ public class EducationalFragment extends Fragment{
     private void populateListView() {
         mList = (ListView) mActivity.findViewById(R.id.educational_listview);
 
-        mAdapter = new ArrayAdapter<>(mActivity.getApplicationContext(), android.R.layout.simple_spinner_item, mArrayListTitles);
+        mAdapter = new ArrayAdapter<>(mActivity, android.R.layout.simple_spinner_item, mArrayListTitles);
         mList.setAdapter(mAdapter);
         mList.setOnItemClickListener(new OnItemClickListener() {
             public void onItemClick(AdapterView<?> parent, View view,
