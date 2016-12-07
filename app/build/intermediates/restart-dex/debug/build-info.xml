@@ -5,50 +5,44 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="45232608993580"
+    timestamp="20199374947388"
     token="7980250506809799371"
-    verifier="METHOD_ADDED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1130" />
+        duration="741" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="74" />
+        duration="67" />
     <task
         name="verifier"
-        duration="4" />
+        duration="2" />
 
     <artifact
         location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
         type="DEX" />
 
     <build
-        timestamp="35787173612231"
+        timestamp="15954850751445"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="37984790154367"
+        timestamp="18435094414491"
         verifier="R_CLASS_CHANGE" >
         <artifact
             location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
-        <artifact
-            location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
     </build>
     <build
-        timestamp="45232608993580"
-        verifier="METHOD_ADDED" >
+        timestamp="20199374947388"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
             type="DEX" />

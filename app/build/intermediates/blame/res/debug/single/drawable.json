@@ -36,16 +36,12 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_mini_controller_rewind30.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/drawable/mr_ic_play_dark.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_mini_controller_rewind30.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
@@ -66,10 +62,6 @@
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_expanded_controller_stop.xml"
-    },
-    {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
@@ -106,10 +98,6 @@
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_expanded_controller_play.xml"
-    },
-    {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
@@ -156,16 +144,8 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_dark.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
@@ -212,12 +192,12 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_expanded_controller_mute.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/ic_menu_camera.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/src/main/res/drawable/ic_menu_camera.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/ic_menu_camera.xml",
+        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/src/main/res/drawable/ic_menu_camera.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
@@ -264,10 +244,6 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable/common_plus_signin_btn_text_light.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
     },
@@ -304,10 +280,6 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_notification_forward30.xml"
     },
@@ -322,10 +294,6 @@
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/ic_menu_slideshow.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/src/main/res/drawable/ic_menu_slideshow.xml"
-    },
-    {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
@@ -344,20 +312,12 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable/common_plus_signin_btn_icon_light.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_notification_rewind10.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.0/res/drawable/cast_ic_notification_connecting.xml"
-    },
-    {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
@@ -384,10 +344,6 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_notification_forward10.xml"
     },
@@ -412,20 +368,16 @@
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
-    },
-    {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
     },
     {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
@@ -446,14 +398,6 @@
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
         "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/res/drawable/cast_ic_notification_play.xml"
-    },
-    {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
-    },
-    {
-        "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
-        "source": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/drawable/cast_expanded_controller_seekbar_track.xml"
     },
     {
         "merged": "/Users/writingcenter/Documents/cmorse/GreenTech-Android/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",

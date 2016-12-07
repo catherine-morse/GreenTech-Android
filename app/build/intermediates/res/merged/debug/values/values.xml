@@ -726,6 +726,19 @@
     <string name="add_entry_educational_value_1">Resource Name</string>
     <string name="add_entry_educational_value_2">Resource Link</string>
     <string name="add_entry_educational_value_3">Description</string>
+    <string name="add_entry_maps_textbox_1">Title</string>
+    <string name="add_entry_maps_textbox_2">Facility Type</string>
+    <string name="add_entry_maps_textbox_3">Facility Status</string>
+    <string name="add_entry_maps_textbox_4">Power</string>
+    <string name="add_entry_maps_textbox_5">Fuel</string>
+    <string name="add_entry_maps_textbox_6">Secondary Fuel</string>
+    <string name="add_entry_maps_title">Add New Site\n(*required field)</string>
+    <string name="add_entry_maps_value_1">*Title</string>
+    <string name="add_entry_maps_value_2">*Facility Type</string>
+    <string name="add_entry_maps_value_3">Facility Status</string>
+    <string name="add_entry_maps_value_4">Power</string>
+    <string name="add_entry_maps_value_5">Fuel</string>
+    <string name="add_entry_maps_value_6">Secondary Fuel</string>
     <string name="app_name">GreenTech-Android</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
@@ -797,6 +810,8 @@
     <string name="debug_menu_troubleshooting">Troubleshooting</string>
     <string name="decline">Decline</string>
     <string name="default_web_client_id" translatable="false">854373317889-7jv4vh1v7q63bk9mkonlrebus1560ed6.apps.googleusercontent.com</string>
+    <string name="edit_entry_maps_title">Edit Site\n(*required field)</string>
+    <string name="entry_dialog_negative_button">CANCEL</string>
     <string name="entry_dialog_positive_button">SAVE</string>
     <string name="firebase_database_url" translatable="false">https://greentechapp-c4a2c.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">854373317889</string>
@@ -836,7 +851,7 @@
     <string name="tagmanager_preview_dialog_button">Continue</string>
     <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
     <string name="tagmanager_preview_dialog_title">Preview</string>
-    <string name="view_dialog_positive_button">OK</string>
+    <string name="view_dialog_positive_button">CLOSE</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

@@ -1,24 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/add_entry_maps">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="@dimen/dialog_margin_left"
-        android:layout_marginTop="@dimen/activity_vertical_margin"
-        android:text="@string/add_entry_maps_title"
-        android:textSize="@dimen/add_entry_educational_text_size"/>
-
-    <EditText
-        android:id="@+id/add_entry_maps_title"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="@dimen/dialog_margin_left"
-        android:layout_marginRight="@dimen/dialog_margin_left"
-        android:layout_marginTop="@dimen/add_entry_edittext_margin_top"
-        android:hint="@string/add_entry_maps_textbox"/>
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:backgroundTint="@color/cast_expanded_controller_ad_container_white_stripe_color">
 
-</LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/add_entry_maps_value_1"
+            android:textSize="@dimen/add_entry_educational_text_size"/>
+
+        <EditText
+            android:id="@+id/add_entry_maps_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginRight="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/add_entry_edittext_margin_top"
+            android:hint="@string/add_entry_maps_textbox_1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/add_entry_maps_value_2"
+            android:textSize="@dimen/add_entry_educational_text_size"/>
+
+        <EditText
+            android:id="@+id/add_entry_maps_facility_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginRight="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/add_entry_edittext_margin_top"
+            android:hint="@string/add_entry_maps_textbox_2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/add_entry_maps_value_3"
+            android:textSize="@dimen/add_entry_educational_text_size"/>
+
+        <EditText
+            android:id="@+id/add_entry_maps_facility_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginRight="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/add_entry_edittext_margin_top"
+            android:hint="@string/add_entry_maps_textbox_3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/add_entry_maps_value_4"
+            android:textSize="@dimen/add_entry_educational_text_size"/>
+
+        <EditText
+            android:id="@+id/add_entry_maps_power"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginRight="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/add_entry_edittext_margin_top"
+            android:hint="@string/add_entry_maps_textbox_4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/add_entry_maps_value_5"
+            android:textSize="@dimen/add_entry_educational_text_size"/>
+
+        <EditText
+            android:id="@+id/add_entry_maps_fuel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginRight="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/add_entry_edittext_margin_top"
+            android:hint="@string/add_entry_maps_textbox_5"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/add_entry_maps_value_6"
+            android:textSize="@dimen/add_entry_educational_text_size"/>
+
+        <EditText
+            android:id="@+id/add_entry_maps_secondary_fuel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin_left"
+            android:layout_marginRight="@dimen/dialog_margin_left"
+            android:layout_marginTop="@dimen/add_entry_edittext_margin_top"
+            android:hint="@string/add_entry_maps_textbox_6"/>
+
+    </LinearLayout>
+
+</ScrollView>

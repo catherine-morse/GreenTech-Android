@@ -10,7 +10,9 @@ public class SearchFragment extends Fragment{
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
+
+        getActivity().findViewById(R.id.fab).setVisibility(View.INVISIBLE);
+
         return inflater.inflate(R.layout.fragment_search, container, false);
     }
 }

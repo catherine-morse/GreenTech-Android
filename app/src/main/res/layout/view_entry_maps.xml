@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/view_entry_educational">
+
+    <TextView
+        android:id="@+id/view_entry_maps_value_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dialog_margin_left"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:textSize="@dimen/add_entry_educational_text_size"/>
+
+    <TextView
+        android:id="@+id/view_entry_maps_value_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dialog_margin_left"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:textSize="@dimen/add_entry_educational_text_size"/>
+
+    <TextView
+        android:id="@+id/view_entry_maps_value_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dialog_margin_left"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:textSize="@dimen/add_entry_educational_text_size"/>
+
+    <TextView
+        android:id="@+id/view_entry_maps_value_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dialog_margin_left"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:textSize="@dimen/add_entry_educational_text_size"/>
+
+    <TextView
+        android:id="@+id/view_entry_maps_value_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dialog_margin_left"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:textSize="@dimen/add_entry_educational_text_size"/>
+
+</LinearLayout>

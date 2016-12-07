@@ -20,9 +20,20 @@
     <string name="add_entry_educational_textbox_2">www.example.com</string>
     <string name="add_entry_educational_textbox_3">Enter Resource Description</string>
 
-    <string name="add_entry_maps_title">Add New Site</string>
-    <string name="add_entry_maps_value">Site Name</string>
-    <string name="add_entry_maps_textbox">Enter Name</string>
+    <string name="add_entry_maps_title">Add New Site\n(*required field)</string>
+    <string name="edit_entry_maps_title">Edit Site\n(*required field)</string>
+    <string name="add_entry_maps_value_1">*Title</string>
+    <string name="add_entry_maps_textbox_1">Title</string>
+    <string name="add_entry_maps_value_2">*Facility Type</string>
+    <string name="add_entry_maps_textbox_2">Facility Type</string>
+    <string name="add_entry_maps_value_3">Facility Status</string>
+    <string name="add_entry_maps_textbox_3">Facility Status</string>
+    <string name="add_entry_maps_value_4">Power</string>
+    <string name="add_entry_maps_textbox_4">Power</string>
+    <string name="add_entry_maps_value_5">Fuel</string>
+    <string name="add_entry_maps_textbox_5">Fuel</string>
+    <string name="add_entry_maps_value_6">Secondary Fuel</string>
+    <string name="add_entry_maps_textbox_6">Secondary Fuel</string>
 
     <string name="entry_dialog_positive_button">SAVE</string>
     <string name="entry_dialog_negative_button">CANCEL</string>
